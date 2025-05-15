@@ -30,9 +30,7 @@ Developed by: SRI YALINE R
 RegisterNumber: 212224040325
 */
 ```
-![image](https://github.com/user-attachments/assets/f51fa205-e57c-4afd-9b4c-c1fc559009c0)
-
-
+![image](https://github.com/user-attachments/assets/9a5ede73-c019-4cd5-bba2-eff3a33f0f7f)
 
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
